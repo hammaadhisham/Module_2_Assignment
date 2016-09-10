@@ -34,6 +34,7 @@ h1{
 	top:0;
 	right:0;
 	position: absolute;
+	border: 1px solid black;
 }
 
 #p2{
@@ -45,6 +46,7 @@ h1{
 	top:0;
 	right:0;
 	position: absolute;
+	border: 1px solid black;
 }
 
 #p3{
@@ -56,6 +58,7 @@ h1{
 	top:0;
 	right:0;
 	position: absolute;
+	border: 1px solid black;
 }
 
 /*Desktop View*/
